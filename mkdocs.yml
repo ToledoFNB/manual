@@ -1,0 +1,28 @@
+site_name: MkLorum
+site_url: http://example.com/
+nav:
+  - Home: index.md
+  - 'Mission & history': about.md
+  - 'Group processes':
+    #- quick_start.md
+    - community_dinners.md
+    - meal_agreements.md
+    - donations.md
+    - food_safety.md
+    - workflow.md
+    - using_equipment.md
+    - delivery.md
+    - distribution.md
+    - inventory.md
+    - communication.md
+    - signup.md
+    - conflict_engagement.md
+    - money.md
+  - 'Site specific information':
+    - 'Accessing Glenwood Lutheran Church': GLC/index.md
+    - 'Kitchen storage and physical organization': GLC/storage.md
+    - 'Cleanup process and checklist': GLC/cleanup.md
+  - 'The broader community':
+    - other_connections.md
+    - other_cooking_spaces.md
+# theme: readthedocs
