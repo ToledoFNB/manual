@@ -1,5 +1,5 @@
-site_name: MkLorum
-site_url: http://example.com/
+site_name: Toledo Food Not Bombs manual
+site_url: http://toledofnb.github.io/manual/
 nav:
   - Home: index.md
   - 'Mission & history': about.md
