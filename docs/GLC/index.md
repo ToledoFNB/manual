@@ -4,7 +4,7 @@ In 2022 \[@@when, specifically?@@], Food Not Bombs Toledo moved their Thursday c
 
 ## Accessing the church
 
-Glenwood Lutheran Church is located at 2545 Monroe St.
+Glenwood Lutheran Church is located at [2545 Monroe St](https://www.waze.com/en/live-map/directions/us/oh/toledo/2545-monroe-st?place=ChIJfQ3kyTKHO4gRMysxLAHWav4).
 
 We currently **access the church** mainly to drop off food or supplies and to engage in the Thursday cooking events, although the church community has entrusted us with a lot of freedom and flexibility in using various spaces in the church.  We enter by the eastern administrative doors (in the general center of the building as you face it from Monroe St), and the kitchen is downstairs and to the left.
 

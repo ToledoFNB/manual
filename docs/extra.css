@@ -1,0 +1,13 @@
+.bg-primary {
+  background-color: #088f18;
+  background-image: linear-gradient(#43ad30, #148922 60%, #086c14);
+  background-repeat: no-repeat;
+}
+
+a, a:hover {
+  color: #148922;
+}
+
+.dropdown-item.active, .dropdown-item:hover {
+  background-color: #148922;
+}

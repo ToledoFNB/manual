@@ -25,4 +25,8 @@ nav:
   - 'The broader community':
     - other_connections.md
     - other_cooking_spaces.md
+repo_url: https://github.com/toledofnb/manual/
+edit_uri: blob/main/docs/
+extra_css:
+  - extra.css
 # theme: readthedocs
