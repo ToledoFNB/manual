@@ -2,7 +2,7 @@
 
 ## Facebook Messenger chat
 
-We have a big ongoing Facebook Messenger chat, the great "Soup For My Family" chat.  A lot of immediate organizing goes there.  To join that thread, ask another member.  Sometimes it can get overwhelming or off-topic; we have members who are thinking and scheming about alternatives or additions.
+We have a big ongoing Facebook Messenger chat, the great "Soup For My Family" chat.  A lot of immediate organizing goes there.  To join that thread, ask another member to add you.  Sometimes it can get overwhelming or off-topic; we have members who are thinking and scheming about alternatives or additions.
 
 ## [Facebook group](https://www.facebook.com/groups/109175886146669)
 
