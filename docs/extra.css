@@ -11,3 +11,13 @@ a, a:hover {
 .dropdown-item.active, .dropdown-item:hover {
   background-color: #148922;
 }
+
+/* From <https://github.com/mkdocs/mkdocs/wiki/MkDocs-Recipes#add-support-for-checkbox-lists>: */
+.task-list-item {
+  list-style-type: none;
+}
+
+.task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}

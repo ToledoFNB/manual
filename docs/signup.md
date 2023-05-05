@@ -1,6 +1,6 @@
 # Managing the sign-up sheets
 
-We currently use [VolunteerSignup](https://volunteersignup.org/) to allow people to volunteer for tasks at our cooking events.  Since about 2022-09, [John Clark](mailto:john.l.clark@gmail.com) has been managing the sign-up sheets.
+We currently use [VolunteerSignup](https://volunteersignup.org/) to allow people to sign up for tasks at our cooking events, which helps us to know if we'll have enough people to run the events (in theory).  Since about 2022-09, [John Clark](mailto:john.l.clark@gmail.com) has been managing the sign-up sheets.
 
 VolunteerSignup requires users to create a new sign-up sheet for each event, so currently John sets up the sign-up sheet early each week for the upcoming Thursday cooking event.
 

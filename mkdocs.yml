@@ -29,4 +29,7 @@ repo_url: https://github.com/toledofnb/manual/
 edit_uri: blob/main/docs/
 extra_css:
   - extra.css
+markdown_extensions:
+  - pymdownx.tasklist:
+      clickable_checkbox: True
 # theme: readthedocs
