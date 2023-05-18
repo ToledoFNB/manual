@@ -1,9 +1,9 @@
 # Other groups or projects that we're connected to
 
-TODO: Monika, Nic, & Alyx agreed to work on this section
+TODO: Monika, Nik, & Alyx agreed to work on this section
 
 - Collingwood Garden
-- Monika & Nic's earthship
+- Monika & Nik's earthship
 - Black Swamp Distro
 - Glenwood Lutheran Church
 - Glenwood Penpals
