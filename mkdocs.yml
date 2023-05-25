@@ -32,4 +32,6 @@ extra_css:
 markdown_extensions:
   - pymdownx.tasklist:
       clickable_checkbox: True
-# theme: readthedocs
+theme:
+  name: mkdocs
+  navigation_depth: 3
