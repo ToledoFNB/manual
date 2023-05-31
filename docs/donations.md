@@ -4,7 +4,11 @@ TODO: Stacy and Eric may be working on this section
 
 ## Pick up protocol
 
-### Sautters
+### Sautter's Market
+
+Sautter's is located at [5519 Main St in Sylvania](https://www.waze.com/live-map/directions/us/oh/sylvania/5519-main-st?to=place.ChIJI5h2LLF9PIgRIkR4BaeRlvY).  They provide us with a donation of expired food each Wednesday.
+
+To pick up this donation, arrive behind the building (in the back by the dumpsters).  Call the store on their main phone number (419-885-3505) and select option 3 for the produce department.  When someone answers, tell them that you are from Food Not Bombs and that you are there to pick up the donation.  They will generally indicate that they will bring the donation out; if they don't know about the donation, you could try calling back to reach someone with more information or ask to speak to another member of their department.
 
 ### Panera
 
